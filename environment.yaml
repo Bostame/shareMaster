@@ -1,0 +1,6 @@
+name: shareMaster
+channels:
+  - defaults
+dependencies:
+  - python=3.8  # Replace with your desired Python version
+
